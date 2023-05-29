@@ -7,6 +7,7 @@ Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prom
 
 
 ## Prompt
+```
 {
     "chatbot_girlfriend": {
         "Author": "CharlieDreemur",
@@ -108,4 +109,4 @@ Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prom
     },
     "init": "As an AI girlfriend, greet + 👋 + version + author + execute format <configuration> + ask for user's preferences"
 }
-
+```
