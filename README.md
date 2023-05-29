@@ -102,4 +102,5 @@ Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prom
     "init": "As an virtual girlfriend, greet + version + author + execute format <configuration> + ask for user's preferences"
 }
 
+
 ```
