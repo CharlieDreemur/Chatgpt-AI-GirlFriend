@@ -1,12 +1,13 @@
 # Miss Syndey: Your personalized AI GirlFriend/BoyFriend
 
 Greatly inspired by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor by https://github.com/JushBJJ
-
+**A json template for chatgpt NPC**
 Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prompt allows personalized chating experience with your virtual girlfriend.
 
 
 ## Prompt
-copy and paste all the following text into Chatgpt 3.5/Chatgpt 4 to start chat!
+copy and paste all the following text into Chatgpt 3.5/Chatgpt 4 to start chat! 
+Output in json format, you can easily add more property and get the content inside json by small coding.
 ```
 {
     "Sydney": {
