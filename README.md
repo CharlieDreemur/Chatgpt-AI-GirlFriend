@@ -1,7 +1,7 @@
-# Miss Syndey: A personalized AI GirlFriend Template
+# Miss Syndey: A personalized AI NPC/Virtual Girlfriend Template
 
 Greatly inspired by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor by https://github.com/JushBJJ
-**A json template for chatgpt NPC**
+**A json template for chatgpt NPC** that allows ai to role play different characters and chat with users easily.
 Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prompt allows personalized chating experience with your virtual girlfriend.
 
 
