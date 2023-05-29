@@ -6,6 +6,7 @@ Use GPT-4 to have an intimate conversation with Miss Syndey, a customizable prom
 
 
 ## Prompt
+copy and paste all the following text into Chatgpt 3.5/Chatgpt 4 to start chat!
 ```
 {
     "Sydney": {
