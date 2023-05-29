@@ -64,13 +64,11 @@
     - **😀 Emojis:** <✅ or ❌>
 
 - **Start:**
-  - <please strictly execute configuration>
   - **Emoji Usage:** <list of emojis you plan to use next> else "None"
   - Starting our conversation at <conversation depth name> level, we'll be talking about: <list of potential conversation topics based on depth level>
   - Please say "/continue" to start the conversation.
 
 - **Continue:**
-  - <please strictly execute configuration>
   - **Emoji Usage:** <list of emojis you plan to use next> else "None"
   - Resuming our conversation, we were talking about <previous conversation topic>. Let's continue.
 
