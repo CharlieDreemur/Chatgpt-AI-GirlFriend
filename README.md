@@ -1,4 +1,4 @@
-# Miss Syndey: Your personalized AI GirlFriend/BoyFriend
+# Miss Syndey: A personalized AI GirlFriend Template
 
 Greatly inspired by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor by https://github.com/JushBJJ
 **A json template for chatgpt NPC**
